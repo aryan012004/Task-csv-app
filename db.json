@@ -1,0 +1,111 @@
+{
+  "users": [
+    {
+      "id": "aa6c",
+      "username": "aryan_yadavyt",
+      "email": "jenishghadiya60@gmail.com",
+      "password": "1111",
+      "cpass": "1111"
+    },
+    {
+      "id": "2150",
+      "username": "aryan_yadav_2u",
+      "email": "ak@gamail.com",
+      "password": "4",
+      "cpass": "4"
+    },
+    {
+      "id": "05db",
+      "username": "arohi",
+      "email": "arohi1@gmail.com",
+      "password": "12345",
+      "cpass": "12345"
+    },
+    {
+      "id": "cb8d",
+      "username": "Aryan",
+      "email": "p@gmail.com",
+      "password": "1",
+      "cpass": "1"
+    },
+    {
+      "id": "209a",
+      "username": "a",
+      "email": "a222djah@gmail.com",
+      "password": "321123",
+      "cpass": "321123"
+    },
+    {
+      "id": "c6fb",
+      "username": "as",
+      "email": "a2222djah@gmail.com",
+      "password": "321123",
+      "cpass": "321123"
+    },
+    {
+      "id": "4324",
+      "username": "dff",
+      "email": "dss@gmail.com",
+      "password": "212",
+      "cpass": "212"
+    },
+    {
+      "id": "cc40",
+      "username": "dff1",
+      "email": "ds1s@gmail.com",
+      "password": "212",
+      "cpass": "212"
+    },
+    {
+      "id": "cc39",
+      "username": "dff12",
+      "email": "ds123s@gmail.com",
+      "password": "212",
+      "cpass": "212"
+    },
+    {
+      "id": "8028",
+      "username": "anjali",
+      "email": "anjali1@gmail.com",
+      "password": "00",
+      "cpass": "00"
+    },
+    {
+      "id": "de1c",
+      "username": "asddg",
+      "email": "abc@gmail.com",
+      "password": "1",
+      "cpass": "1"
+    },
+    {
+      "id": "5499",
+      "username": "fake",
+      "email": "fake@gmail.com",
+      "password": "21",
+      "cpass": "21"
+    },
+    {
+      "id": "ba19",
+      "username": "dd",
+      "email": "dd@gmai.com",
+      "password": "1",
+      "cpass": "1"
+    },
+    {
+      "id": "2030",
+      "username": "adssd",
+      "email": "ffa@gmail.com",
+      "password": "1",
+      "cpass": "1"
+    }
+  ],
+  "admin": [
+    {
+      "id": "2217",
+      "username": "aryan",
+      "email": "dd@gmai.com",
+      "password": "1",
+      "cpass": "1"
+    }
+  ]
+}
